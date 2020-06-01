@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <token>alphavantage token</token>
+  <function>TIME_SERIES_DAILY</function>
+  <outputsize>full</outputsize>
+  <interval></interval>
+</configuration>
